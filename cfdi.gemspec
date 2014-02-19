@@ -21,7 +21,7 @@ Gem::Specification.new do |gem|
   gem.rdoc_options  = '--no-private'
 
 
-  gem.add_runtime_dependency 'nokogiri'
+  gem.add_dependency 'nokogiri'
   gem.add_development_dependency 'rspec'
 
 end
