@@ -25,4 +25,5 @@ PLATFORMS
 
 DEPENDENCIES
   cfdi!
+  nokogiri
   rspec
