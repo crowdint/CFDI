@@ -12,7 +12,6 @@ require_relative 'key.rb'
 
 # Comprobantes fiscales digitales por los internets
 
-require 'nokogiri'
 require 'time'
 require 'base64'
 
